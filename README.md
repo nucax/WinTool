@@ -3,7 +3,7 @@
 WinTool is a multifunctional Windows utility tool written in Python.
 It provides a menu-driven interface to quickly access system information, perform maintenance tasks, and manage basic Windows operations — all from the command line.
 
-Features
+## Features
 
 System & User Management
 
@@ -15,7 +15,6 @@ Change user passwords
 
 Run programs with system privileges (via PsExec)
 
-
 System Information
 
 Show Windows version, architecture, and hostname
@@ -25,7 +24,6 @@ Display hardware info (CPU, RAM, disk usage)
 View local and public IP addresses
 
 List active network connections
-
 
 ## Utilities & Tools
 
